@@ -14,6 +14,15 @@ Para obter os dados acesse:
 https://dadosabertos.camara.leg.br/swagger/api.html#staticfile
 Neste projetos os dados foram retirados na data 20/10/2023
 
+### Ações realizadas
+
+* Identificação e Mapeamento dos Dados
+* Avaliação de dados
+* Modelagem Dimensional (Divisão de dados em Fato - Dimensões)
+* PySpark para Tratamento de Dados
+* Criação de DW com SQL
+* Inserção de Dados
+
 ## Projeto Construído com 
 
 * Python
