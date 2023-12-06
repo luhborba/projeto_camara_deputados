@@ -28,6 +28,7 @@ Neste projetos os dados foram retirados na data 20/10/2023
 * Python
 * Google Colaboratory
 * PySpark
+* Pandas
 * Modelagem Dimensional
 * SGBD PostgreSQL
 * Power BI
